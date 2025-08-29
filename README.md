@@ -1,3 +1,3 @@
 # pythonzero
 BandName Creater
-Author Bikram
+Author Bikram Daju
